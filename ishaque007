@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>FOOD EMPIRE</h1>
+<body>
+    <H2>FOOD ITEMS</H2>
+
+    <h3>veg ITEMS</h3>
+<ol>
+    <li>paneer</li>
+    <li>gopi chilli</li>
+    <li>califlower</li>
+</ol>
+<blockquote>non veg</blockquote>
+<u1>
+    <li>chicken</li>
+    <li>mutton</li>
+</u1>
+<style>
+    ol{
+        background-color: rgb(70, 70, 109);
+    }
+    u1{
+        background-color: rgb(78, 63, 63);
+    }
+    body{
+        color: black;
+        background-image: ;url(https://www.itchotels.com/content/dam/itchotels/in/umbrella/images/offers/offer-primary-desktop/all-in-getaway.jpg")
+    }
+
+</style>
+</body>
+</html>
